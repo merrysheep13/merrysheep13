@@ -3,11 +3,11 @@
 <!-- GitHub Profile README - Creative UI for David -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Hi,%20I'm%20David%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Hi,%20This%20is%20Einar%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  💻 Frontend Dev | 🧠 Fast Learner | ☁️ Exploring Cloud & AI  
+  💻 Full Stack Dev | 🧠 Fast Learner | ☁️ Exploring Cloud & AI  
 </p>
 
 ---
@@ -17,12 +17,8 @@
 ```yaml
 Location: 🇺🇸 United States
 Role: 🌟 Fullstack Software Engineer
-Currently Learning:
-  - 🔧 Building scalable, resilient backends with Django & Express.js
-  - ☁️ AWS cloud architecture, serverless services, and DevOps practices
-  - 🧠 AI-driven tools to enhance frontend workflows and user experiences
 Skills:
-  - ⚡ JavaScript (React, Node.js), Python, TypeScript
+  - ⚡ JavaScript (React, Node.js), Python, TypeScript, Java, .NET, GO, RUST
   - 📦 RESTful APIs, GraphQL, microservices
   - 🗄️ SQL & NoSQL databases
   - 🛠️ CI/CD pipelines, Docker, container orchestration
