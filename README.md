@@ -15,7 +15,6 @@
 ### 🧭 About Me
 
 ```yaml
-Location: 🇺🇸 Miami, FL
 Role: 🌟 Fullstack Software Engineer
 Skills:
   - ⚡ JavaScript (React, Node.js), Python, TypeScript, Java, .NET, GO, RUST
