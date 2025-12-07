@@ -1,9 +1,7 @@
 
 
-<!-- GitHub Profile README - Creative UI for David -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Hi,%20This%20is%20James%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Hi,%20This%20is%20Michael%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
