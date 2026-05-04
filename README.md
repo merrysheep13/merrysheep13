@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="border: none;">Hello, 'm Michael, glad you stopped by!</h1>
-<h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
+<h1 align="center" style="border: none;">🎖️ Software Engineer | Technical Team Lead 🎖️</h1>
 <hr>
 <br>
 
