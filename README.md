@@ -119,24 +119,8 @@
 
 🔭 I'm passionate about leveraging technology to drive innovation in healthcare and fintech. While I've enjoyed working with dynamic languages like Python and JavaScript, I'm increasingly drawn to the stability, performance, and enterprise-level support offered by C#. As a memory-safe language, C# helps prevent common vulnerabilities and ensures the security and reliability of critical applications. I'm focused on mastering C# and related .NET tools to develop robust and scalable solutions that meet the stringent requirements of these industries and looking forward to seeing what is possible in these expanding fields!
 
-💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
-
 ⚡ Fun fact: **Managing data centers 300 feet underground -- it's like Minecraft, but the stakes are real and the creepers wear suits.**
-
-😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, unraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
 
 </div>
 <br/>
-<p align="center">
-      <a href="https://www.linkedin.com/in/michaelroy91">
-         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=codementor&logoColor=white"/></a>
-      <a href="https://michaelroy.dev/">
-         <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
-      <a href="mailto:michael.g.roy@mrcodewizard.com">
-         <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-      <a href="https://buymeacoffee.com/michaelroy">
-        <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-      <a href="https://ko-fi.com/itsmichaelroy">
-        <img alt="I also Like Espresso!" title="I also Like Espresso!" src="https://img.shields.io/badge/Buy_Me_A_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-   </p>
 <hr/>
